@@ -1,3 +1,5 @@
+An Angular to-do list from: Angular Crash Course - 2019 (https://www.youtube.com/watch?v=Fdf5aTYRW0E)
+
 # AngularCrashcourseTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
